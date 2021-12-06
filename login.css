@@ -1,0 +1,73 @@
+body{
+
+
+background-image: url("blur-hospital.jpg");
+background-size: 100%
+
+}
+
+.loginmodel{
+
+
+position:absolute;
+
+top: 45%;
+
+left: 50%;
+
+width:60em;
+
+height:40em;
+
+margin-top: -9em; /*set to a negative number 1/2 of your height*/
+
+margin-left: -25em; /*set to a negative number 1/2 of your width*/
+
+ ;
+}
+
+.loginform{
+  
+  position: absolute;
+  right: 60;
+  top: 50;
+  width: 30em;
+  height: 30em;
+}
+
+.from-group{
+direction: rtl
+
+
+}
+.imglab{
+
+inline-size: 35%;
+
+position:absolute;
+
+left: 40;
+
+top: 100;
+}
+
+
+
+.brand {
+    position: absolute;
+    text-align: center;
+    margin-top: 14em;
+    margin-left: 1.5em;
+    
+}
+
+.brand-des{
+
+position:absolute;
+
+margin-top: 32em;
+
+margin-left: 7.5em;
+font-family: 'PT Sans', sans-serif;
+}
+
